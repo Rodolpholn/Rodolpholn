@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Arthur%20Rodolpho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Arthur%20Rocha&fontAlign=50&textBg=false&animation=fadeIn&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Arthur%20Rodolpho&fontAlign=50&textBg=false&animation=fadeIn&reversal=false" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+MEU+NOME+%C3%89+ARTHUR+RODOLPHO;TENHO+32+ANOS;SOU+DE+RECIFE,+BRASIL;+CRIADOR+DE+CONTE%C3%9ADO+DE+PROGRAMA%C3%87%C3%83O+E+TECNOLOGIA!;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
