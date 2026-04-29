@@ -25,7 +25,7 @@ Tenho experiência prática no desenvolvimento de aplicações web, APIs e integ
 ## 🧠 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,react,js,ts,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,react,js,ts,postgres,mysql,firebase" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Soluções para redução de tarefas manuais e ganho de produtividade
 ## 📫 Contato
 
 <p>
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/arthur-rocha-371392152/">
     <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Rocha-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
